@@ -6,6 +6,6 @@ def line(kats_deli)
     if (index == 0)
     puts "The line is currenty empty"
   end
-end    
-        
+end
+
   
