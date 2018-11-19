@@ -4,5 +4,5 @@ def line(kats_deli)
   kats_deli.each_with_index{|num, i| j = i + 1;
     puts "The line is currently: #{num}. #{j}"
   end
-  
+
 end
