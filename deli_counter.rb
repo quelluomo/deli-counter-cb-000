@@ -8,5 +8,3 @@ def line(kats_deli)
     puts "The line is currenty empty"
   end
 end
-
-  
